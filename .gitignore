@@ -46,8 +46,6 @@ app.*.map.json
 
 
 ﻿# Ignore system/build/flutter folders
-android/
-ios/
 macos/
 linux/
 windows/
